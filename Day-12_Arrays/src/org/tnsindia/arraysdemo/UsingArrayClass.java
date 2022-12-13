@@ -20,3 +20,5 @@ public class UsingArrayClass {
 		display(11,23,15,97,87,1,4);
 
 	}
+
+}

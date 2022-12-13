@@ -1,6 +1,6 @@
 package org.tnsindia.arraysdemo;
 
-public class StudentJava {
+public class Student {
 	
 	//private data members
 	private int roll_no;
